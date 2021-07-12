@@ -1,2 +1,5 @@
 # leptinPsych
-Scripts for analysing associations between adipokines and psychiatric outcomes in the ALSPAC cohort 
+
+This repository contains scripts used in the analysis of the associations between adipokines and psychiatric outcomes in the ALSPAC cohort.
+
+# Contents
